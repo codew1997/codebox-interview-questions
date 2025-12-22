@@ -1,5 +1,14 @@
 {
-  "1": [
+  "metadata": {
+    "id": "daily_001",
+    "title": "Binary Search Warm-up",
+    "description": "Solve a quick problem to keep your DSA streak alive.",
+    "xpReward": 50,
+    "difficulty": "Easy",
+    "estimatedTimeMinutes": 5,
+    "isCompleted": false
+  },
+  "data": [
     {
       "questionText": "What is an array?",
       "options": [
