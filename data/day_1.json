@@ -1,0 +1,59 @@
+{
+  "1": [
+    {
+      "questionText": "What is an array?",
+      "options": [
+        "Collection of random elements",
+        "Collection of same type elements",
+        "Linked nodes",
+        "Key-value pairs"
+      ],
+      "correctAns": "Collection of same type elements",
+      "explanation": "An array stores elements of the same data type in contiguous memory."
+    },
+    {
+      "questionText": "What is the index of the first element in an array?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "Depends on language"
+      ],
+      "correctAns": "0",
+      "explanation": "Most programming languages use zero-based indexing."
+    },
+    {
+      "questionText": "How are elements stored in an array?",
+      "options": [
+        "Randomly",
+        "Contiguously in memory",
+        "As tree nodes",
+        "Using pointers only"
+      ],
+      "correctAns": "Contiguously in memory",
+      "explanation": "Array elements occupy consecutive memory locations."
+    },
+    {
+      "questionText": "Which operation is fastest in an array?",
+      "options": [
+        "Insertion at beginning",
+        "Deletion at end",
+        "Access by index",
+        "Traversal"
+      ],
+      "correctAns": "Access by index",
+      "explanation": "Array indexing allows constant-time access."
+    },
+    {
+      "questionText": "What is the time complexity of accessing an element by index?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "correctAns": "O(1)",
+      "explanation": "Direct index access does not depend on array size."
+    }
+  ]
+}
