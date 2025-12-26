@@ -1,0 +1,13 @@
+{
+  "title": "Kadane’s Algorithm",
+  "subtitle": "Maximum Subarray Sum",
+  "progress": 0.1,
+  "xpText": "+15 XP",
+  "description": "<p>Kadane’s Algorithm efficiently finds the maximum sum subarray.</p>",
+  "approach": [
+    "Iterate through the array",
+    "Track current subarray sum",
+    "Reset sum if it becomes negative"
+  ],
+  "video": "https://youtube.com"
+}

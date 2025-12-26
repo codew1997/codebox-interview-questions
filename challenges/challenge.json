@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "createdOn": "2025-01-10T10:30:00Z",
+    "postTitle": "Master Kotlin Coroutines",
+    "postSubtitle": "Understand suspend, launch, async & flows",
+    "details": "Learn Kotlin Coroutines from basics to advanced concepts including structured concurrency, dispatchers, and real-world Android use cases.",
+    "isPremium": false,
+    "difficulty": "EASY",
+    "tags": ["kotlin", "coroutines", "android", "async"]
+  },
+  {
+    "id": "2",
+    "createdOn": "2025-01-12T14:15:00Z",
+    "postTitle": "Sliding Window Technique",
+    "postSubtitle": "Crack array & string problems efficiently",
+    "details": "Sliding Window is a powerful technique used to optimize brute-force solutions. This post covers fixed and variable window patterns with examples.",
+    "isPremium": false,
+    "difficulty": "MEDIUM",
+    "tags": ["dsa", "arrays", "sliding-window", "interview"]
+  },
+  {
+    "id": "3",
+    "createdOn": "2025-01-15T09:45:00Z",
+    "postTitle": "System Design: URL Shortener",
+    "postSubtitle": "Design scalable systems step by step",
+    "details": "Learn how to design a URL shortener like Bitly. Covers requirements, database design, caching, hashing, and scalability considerations.",
+    "isPremium": true,
+    "difficulty": "HARD",
+    "tags": ["system-design", "scalability", "backend", "interview"]
+  },
+  {
+    "id": "4",
+    "createdOn": "2025-01-18T18:00:00Z",
+    "postTitle": "Jetpack Compose Basics",
+    "postSubtitle": "Modern UI development for Android",
+    "details": "Get started with Jetpack Compose: Composables, state management, recomposition, and how Compose differs from XML-based UI.",
+    "isPremium": false,
+    "difficulty": "EASY",
+    "tags": ["android", "compose", "ui", "kotlin"]
+  },
+  {
+    "id": "5",
+    "createdOn": "2025-01-20T21:10:00Z",
+    "postTitle": "Advanced Android App Architecture",
+    "postSubtitle": "Clean Architecture + MVVM in real apps",
+    "details": "Deep dive into Clean Architecture for Android using MVVM, UseCases, Repository pattern, and modularization strategies.",
+    "isPremium": true,
+    "difficulty": "HARD",
+    "tags": ["android", "architecture", "mvvm", "clean-architecture"]
+  }
+]
