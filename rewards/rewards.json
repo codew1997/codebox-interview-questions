@@ -4,41 +4,41 @@
     "title": "DSA Cheatsheet",
     "subtitle": "Quick revision for interviews",
     "icon": "📘",
-    "downloadUrl": "https://example.com/ebooks/dsa-cheatsheet.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   },
   {
     "id": "android_interview",
     "title": "Android Interview Guide",
     "subtitle": "Top Android questions & answers",
     "icon": "🤖",
-    "downloadUrl": "https://example.com/ebooks/android-interview-guide.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   },
   {
     "id": "system_design",
     "title": "System Design Basics",
     "subtitle": "Scalable system fundamentals",
     "icon": "🏗️",
-    "downloadUrl": "https://example.com/ebooks/system-design-basics.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   },
   {
     "id": "resume_guide",
     "title": "Resume & Career Guide",
     "subtitle": "Crack top tech interviews",
     "icon": "📄",
-    "downloadUrl": "https://example.com/ebooks/resume-career-guide.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   },
   {
     "id": "kotlin_handbook",
     "title": "Kotlin Handbook",
     "subtitle": "Modern Kotlin best practices",
     "icon": "🧠",
-    "downloadUrl": "https://example.com/ebooks/kotlin-handbook.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   },
   {
     "id": "compose_ui",
     "title": "Jetpack Compose UI",
     "subtitle": "Build modern Android UIs",
     "icon": "🎨",
-    "downloadUrl": "https://example.com/ebooks/jetpack-compose-ui.pdf"
+    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
   }
 ]
