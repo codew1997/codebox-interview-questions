@@ -1,44 +1,44 @@
 [
   {
-    "id": "dsa_cheatsheet",
-    "title": "DSA Cheatsheet",
-    "subtitle": "Quick revision for interviews",
-    "icon": "📘",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
+    "id": "1",
+    "title": "Clean Code Essentials",
+    "subtitle": "A practical guide to writing readable, maintainable software",
+    "icon": "🧼",
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/clean_code.pdf"
   },
   {
-    "id": "android_interview",
-    "title": "Android Interview Guide",
-    "subtitle": "Top Android questions & answers",
-    "icon": "🤖",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
+    "id": "2",
+    "title": "Crack the Coding Interview",
+    "subtitle": "189 real interview questions with clear solutions",
+    "icon": "💥",
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/crack_code.pdf"
   },
   {
-    "id": "system_design",
-    "title": "System Design Basics",
-    "subtitle": "Scalable system fundamentals",
-    "icon": "🏗️",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
+    "id": "3",
+    "title": "LeetCode Cheatsheet",
+    "subtitle": "Most common LeetCode problems & patterns at a glance",
+    "icon": "📚",
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/leetcode_cheatsheet.pdf"
   },
   {
-    "id": "resume_guide",
-    "title": "Resume & Career Guide",
-    "subtitle": "Crack top tech interviews",
-    "icon": "📄",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
+    "id": "4",
+    "title": "System Design Interview Guide",
+    "subtitle": "Insider strategies for LLD & HLD interviews (Alex Xu)",
+    "icon": "🏛️",
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/system_design.pdf"
   },
   {
-    "id": "kotlin_handbook",
-    "title": "Kotlin Handbook",
-    "subtitle": "Modern Kotlin best practices",
+    "id": "5",
+    "title": "Make Money as a Developer",
+    "subtitle": "Turn coding skills into real income streams",
+    "icon": "💰",
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/make_money.pdf"
+  },
+  {
+    "id": "6",
+    "title": "Data Structures & Algorithms Bible",
+    "subtitle": "In-depth DSA concepts explained with clarity",
     "icon": "🧠",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
-  },
-  {
-    "id": "compose_ui",
-    "title": "Jetpack Compose UI",
-    "subtitle": "Build modern Android UIs",
-    "icon": "🎨",
-    "downloadUrl": "codew1997/codebox-interview-questions/refs/heads/main/rewards/file.pdf"
+    "downloadUrl": "https://raw.githubusercontent.com/codew1997/codebox-interview-questions/refs/heads/main/rewards/dsa.pdf"
   }
 ]
