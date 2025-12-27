@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dsa_cheatsheet",
+    "title": "DSA Cheatsheet",
+    "subtitle": "Quick revision for interviews",
+    "icon": "📘",
+    "downloadUrl": "https://example.com/ebooks/dsa-cheatsheet.pdf"
+  },
+  {
+    "id": "android_interview",
+    "title": "Android Interview Guide",
+    "subtitle": "Top Android questions & answers",
+    "icon": "🤖",
+    "downloadUrl": "https://example.com/ebooks/android-interview-guide.pdf"
+  },
+  {
+    "id": "system_design",
+    "title": "System Design Basics",
+    "subtitle": "Scalable system fundamentals",
+    "icon": "🏗️",
+    "downloadUrl": "https://example.com/ebooks/system-design-basics.pdf"
+  },
+  {
+    "id": "resume_guide",
+    "title": "Resume & Career Guide",
+    "subtitle": "Crack top tech interviews",
+    "icon": "📄",
+    "downloadUrl": "https://example.com/ebooks/resume-career-guide.pdf"
+  },
+  {
+    "id": "kotlin_handbook",
+    "title": "Kotlin Handbook",
+    "subtitle": "Modern Kotlin best practices",
+    "icon": "🧠",
+    "downloadUrl": "https://example.com/ebooks/kotlin-handbook.pdf"
+  },
+  {
+    "id": "compose_ui",
+    "title": "Jetpack Compose UI",
+    "subtitle": "Build modern Android UIs",
+    "icon": "🎨",
+    "downloadUrl": "https://example.com/ebooks/jetpack-compose-ui.pdf"
+  }
+]
